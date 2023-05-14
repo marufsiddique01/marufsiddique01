@@ -19,13 +19,10 @@ Here are some ideas to get you started:
 
 ### About me 🚀
 
-🎓 I’m a Fullstack Developer & Open Source enthusiast. </br>
+🎓 I’m a Fullstack Developer. </br>
 👨‍💻 I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
-🌱 I’m currently learning ReactJS, NodeJS & ExpressJS. </br>
-👯 I’m looking to collaborate on Open Source Projects. </br>
+🌱 I’m currently learning NextJS and NestJS. </br>
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-marufsiddique-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marufsiddique01/)
-
-<br/>
 
 ## :fire: My Stats :
 
