@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🎓 I’m a Fullstack Developer. </br>
 👨‍💻 I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
-🌱 I am currently focusing on new technologies
+🌱 I am currently focusing on new technologies </br>
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-marufsiddique-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marufsiddique01/)
 
 ## :fire: My Stats :
